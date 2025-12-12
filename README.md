@@ -99,7 +99,7 @@ Firebase backend
 
 📫 Contact Me
 
-📧 Email: ibrahimsameer78@icloud.cm
+📧 Email: ibrahimsameer78@icloud.com
 
 💼 LinkedIn: https://www.linkedin.com/in/ibrahim-sameer-8b3987241
 
