@@ -1,7 +1,7 @@
 <h1 align="center">💼 IBRAHIMSAMIRMOBILEDEV — Flutter Developer (+2 Years Experience)</h1>
 
 <p align="center">
-  Hi there 👋 I'm <strong>Ibrahim</strong>, a passionate Flutter Mobile Developer with over 2 years of experience building smooth, scalable, and user-centric mobile apps.
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Ibrahim Sameer" width="400"/>
 </p>
 
 ---
