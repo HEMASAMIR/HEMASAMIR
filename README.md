@@ -1,106 +1,75 @@
-💼 IBRAHIMSAMIRMOBILEDEV — Flutter Developer (+2 Years Experience)
+<h1 align="center">💼 IBRAHIMSAMIRMOBILEDEV — Flutter Developer (+2 Years Experience)</h1>
 
-Hi there 👋
+<p align="center">
+  Hi there 👋 I'm <strong>Ibrahim</strong>, a passionate Flutter Mobile Developer with over 2 years of experience building smooth, scalable, and user-centric mobile apps.
+</p>
 
-I'm Ibrahim, a dedicated Flutter Mobile Developer with over two years of professional experience building high-quality, scalable, and user-centric mobile applications.
+---
 
-I focus on writing clean architecture, maintainable code, and pixel-perfect UIs, ensuring every app I build is smooth, fast, and production-ready.
+### 🚀 About Me
+- 💡 Mobile Developer specialized in **Flutter & Dart**
+- 🔥 Strong experience in **Firebase**, **Realtime apps**, and **scalable architectures**
+- 🧩 Skilled in building full mobile applications **from scratch to deployment**
+- 🧠 Passionate about **problem-solving, code quality**, and **clean architecture**
+- 📚 Always learning **new technologies** to improve efficiency & performance
 
-I’ve worked on multiple real-world projects—including social platforms, e-commerce apps, and real-time chat systems—always aiming to deliver performance, reliability, and a great user experience.
+---
 
-🚀 About Me
+### 🛠️ Tech Stack
 
-💡 Mobile developer specialized in Flutter & Dart
+**Mobile Development:**
+- Flutter / Dart
+- State Management: Bloc, Cubit, Provider
+- Clean Architecture, MVVM, Layered Architecture
+- REST APIs, JSON, Error Handling
+- Realtime apps (Streams, WebSockets)
 
-🔥 Strong experience in Firebase, real-time apps, and scalable architectures
+**Backend & Services:**
+- Firebase: Authentication, Firestore, Storage, FCM
+- Supabase
+- Integration with REST APIs
 
-🧩 Skilled in building full mobile applications from scratch to deployment
+**Tools & Workflow:**
+- Git & GitHub (professional workflow)
+- Android Studio / VS Code
+- Postman
+- Figma (UI implementation)
 
-🧠 Passionate about problem-solving, code quality, and clean architecture patterns
+---
 
-📚 Always learning new technologies to improve efficiency and app performance
+### 📌 Featured Projects
+**🔹 Full Social Media App**
+- Auth system, Posts, Likes, Comments
+- Realtime user updates
+- Profiles, followers, media uploads
+- Firebase backend + Clean Architecture
 
-🛠️ Tech Stack
-📱 Mobile Development
+**🔹 E-Commerce App**
+- Modern clean UI
+- Product listing, favorites, cart
+- API integration & advanced state management
 
-Flutter / Dart
+**🔹 Chat Application**
+- Real-time private messaging
+- Typing indicators, online/offline presence
+- Firebase backend
 
-State Management: Bloc, Cubit, Provider
+---
 
-Clean Architecture, MVVM, Layered Architecture
+### 📈 GitHub Stats
 
-REST APIs, JSON, Error Handling
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IBRAHIMSAMIRMOBILEDEV&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-Realtime apps (Streams, WebSockets)
+---
 
-🔥 Backend & Services
+### 📫 Contact Me
+- 📧 Email: [ibrahimsameer78@icloud.com](mailto:ibrahimsameer78@icloud.com)
+- 💼 LinkedIn: [Ibrahim Sameer](https://www.linkedin.com/in/ibrahim-sameer-8b3987241)
 
-Firebase:
+---
 
-Authentication
-
-Firestore
-
-Storage
-
-Cloud Messaging (FCM)
-
-Supabase
-
-Integration with REST APIs
-
-🧰 Tools & Workflow
-
-Git & GitHub (professional workflow)
-
-Android Studio / VS Code
-
-Postman
-
-Figma (UI implementation)
-
-📌 Featured Projects
-🔹 Full Social Media App
-
-A production-ready social platform with:
-
-Auth system
-
-Create posts, likes, comments
-
-Real-time user updates
-
-Profiles, followers, and media uploads
-
-Firebase backend + clean architecture
-
-🔹 E-Commerce App
-
-Modern clean UI
-
-Product listing, favorites, cart
-
-API integration & advanced state management
-
-🔹 Chat Application
-
-Real-time private messaging
-
-Typing indicators
-
-Online/offline presence
-
-Firebase backend
-
-📈 GitHub Stats
-
-
-
-
-📫 Contact Me
-
-📧 Email: ibrahimsameer78@icloud.com
-
-💼 LinkedIn: https://www.linkedin.com/in/ibrahim-sameer-8b3987241
-
-⭐ Thank you for visiting my profile! Feel free to check my repositories or reach out for collaboration.
+<p align="center">
+  ⭐ Thank you for visiting my profile! Feel free to check my repositories or reach out for collaboration.
+</p>
