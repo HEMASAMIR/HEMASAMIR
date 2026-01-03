@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://link-to-your-name-gif.gif" alt="Ibrahim Sameer" width="400"/>
-</p>
 
 
 <h1 align="center">💼 IBRAHIMSAMIRMOBILEDEV — Flutter Developer (+2 Years Experience)</h1>
