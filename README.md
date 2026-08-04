@@ -41,7 +41,7 @@
 
 | Application | Platform Links | Key Highlights |
 |---|---|---|
-| **Quick In App** | [🍏 App Store](https://apps.apple.com/us/app/quick-in/id6776323829) · [🤖 Google Play](https://play.google.com/store/apps/details?id=com.ejabatech.quickin) | Live enterprise app with CI/CD & Supabase |
+| **Quick In App** | [🍏 App Store](https://apps.apple.com/us/app/quickin-app/id6778979967) · [🤖 Google Play](https://play.google.com/store/apps/details?id=com.quickin.app) | Live enterprise app with CI/CD & Supabase |
 | **Incense SA** | [🌐 Live E-Commerce Store](https://incense-sa.com) | E-commerce app for top Saudi fragrance brand |
 | **Deutsch Welt Akademie** | [💻 Open Source Repo](https://github.com/HEMASAMIR/Deutsh_welt_application) | Full German language platform + PDF Certificates |
 | **Airbnb Clone** | [🌐 Live Web Demo](https://airbnb-prototype-five.vercel.app) | Property rental web & mobile prototype |
