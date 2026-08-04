@@ -41,6 +41,7 @@
 
 | Application | Platform Links | Key Highlights |
 |---|---|---|
+| **Rafiq Al-Muslim (رفيق المسلم)** | [🍏 App Store](https://apps.apple.com/jm/app/rafiq-muslim-%D8%B1%D9%81%D9%8A%D9%82-%D8%A7%D9%84%D9%85-%D8%B3%D9%84%D9%85/id6759332192) · [🤖 Google Play](https://play.google.com/store/apps/details?id=com.rafiq.muslim&hl=ar) | Islamic companion app (Prayer Times, Quran Audio, Azkar) |
 | **Metro Egypt (مترو مصر)** | [🍏 App Store](https://apps.apple.com/us/app/%D9%85%D8%AA%D8%B1%D9%88-%D9%85%D8%B5%D8%B1-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA/id6782100362) | Offline metro route planning, AR & Voice integration |
 | **Quick In App** | [🍏 App Store](https://apps.apple.com/us/app/quickin-app/id6778979967) · [🤖 Google Play](https://play.google.com/store/apps/details?id=com.quickin.app) | Live enterprise app with CI/CD & Supabase |
 | **Incense SA** | [🌐 Live E-Commerce Store](https://incense-sa.com) | E-commerce app for top Saudi fragrance brand |
