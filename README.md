@@ -2,7 +2,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Eng.+Ebrahim+Samir;Senior+Flutter+%26+Mobile+Software+Engineer;Clean+Architecture+%26+BLoC+Expert;CI%2FCD+%26+DevOps+Automation+Specialist;Published+Apps+on+App+Store+%26+Google+Play" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Eng.+Ebrahim+Samir;Flutter+%26+Mobile+Software+Engineer;Flutter+%26+Cross-Platform+Specialist;Clean+Architecture+%26+BLoC+Expert;CI%2FCD+%26+DevOps+Automation+Specialist;Published+Apps+on+App+Store+%26+Google+Play" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -28,7 +28,7 @@
 
 ### 🚀 About Me
 
-- 💡 **Senior Flutter & Mobile Application Engineer** with **4+ years experience** building production apps.
+- 💡 **Flutter & Mobile Application Engineer** with **4+ years experience** building production apps.
 - 🏛️ Enterprise architecture: **Clean Architecture, SOLID Principles, BLoC/Cubit & Modular Design**.
 - ⚙️ Automated Releases: **CI/CD Pipelines (GitHub Actions & Fastlane)** for App Store & Play Store.
 - 📱 **10+ Live Mobile Applications** shipped for international clients across Egypt, KSA, & Kuwait.
