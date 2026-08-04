@@ -41,6 +41,7 @@
 
 | Application | Platform Links | Key Highlights |
 |---|---|---|
+| **Metro Egypt (مترو مصر)** | [🍏 App Store](https://apps.apple.com/us/app/%D9%85%D8%AA%D8%B1%D9%88-%D9%85%D8%B5%D8%B1-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA/id6782100362) | Offline metro route planning, AR & Voice integration |
 | **Quick In App** | [🍏 App Store](https://apps.apple.com/us/app/quickin-app/id6778979967) · [🤖 Google Play](https://play.google.com/store/apps/details?id=com.quickin.app) | Live enterprise app with CI/CD & Supabase |
 | **Incense SA** | [🌐 Live E-Commerce Store](https://incense-sa.com) | E-commerce app for top Saudi fragrance brand |
 | **Deutsch Welt Akademie** | [💻 Open Source Repo](https://github.com/HEMASAMIR/Deutsh_welt_application) | Full German language platform + PDF Certificates |
