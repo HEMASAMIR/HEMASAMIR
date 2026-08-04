@@ -2,7 +2,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Eng.+Ebrahim+Samir;Full-Stack+%26+Mobile+Software+Engineer;Flutter+%26+Cross-Platform+Specialist;Clean+Architecture+%26+BLoC+Expert;CI%2FCD+%26+DevOps+Automation+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Eng.+Ebrahim+Samir;Senior+Flutter+%26+Mobile+Software+Engineer;Clean+Architecture+%26+BLoC+Expert;CI%2FCD+%26+DevOps+Automation+Specialist;Published+Apps+on+App+Store+%26+Google+Play" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -28,11 +28,23 @@
 
 ### 🚀 About Me
 
-- 💡 Specialized in **Flutter, Dart, Clean Architecture & Modern Web Applications**
-- 🏛️ Enterprise expertise in **BLoC / Cubit, Layered Architecture & SOLID Principles**
-- ⚙️ Automated DevOps workflows with **CI/CD Pipelines (GitHub Actions, Fastlane) & Build Flavors**
-- ⚡ High performance with **RESTful APIs, WebSockets, Firebase, Offline Caching & Local Security**
-- 🏆 Lead Engineer behind **[Deutsch Welt Akademie](https://github.com/HEMASAMIR/Deutsh_welt_application)**
+- 💡 **Senior Flutter & Mobile Application Engineer** with **4+ years experience** building production apps.
+- 🏛️ Enterprise architecture: **Clean Architecture, SOLID Principles, BLoC/Cubit & Modular Design**.
+- ⚙️ Automated Releases: **CI/CD Pipelines (GitHub Actions & Fastlane)** for App Store & Play Store.
+- 📱 **10+ Live Mobile Applications** shipped for international clients across Egypt, KSA, & Kuwait.
+- 🎓 **B.Sc. in Computer Science** — Menoufia University (Grade: Very Good).
+
+<br/>
+
+<!-- ── Live Published Apps Section ── -->
+### 📲 Live Published Applications
+
+| Application | Platform Links | Key Highlights |
+|---|---|---|
+| **Quick In App** | [🍏 App Store](https://apps.apple.com/us/app/quick-in/id6776323829) · [🤖 Google Play](https://play.google.com/store/apps/details?id=com.ejabatech.quickin) | Live enterprise app with CI/CD & Supabase |
+| **Incense SA** | [🌐 Live E-Commerce Store](https://incense-sa.com) | E-commerce app for top Saudi fragrance brand |
+| **Deutsch Welt Akademie** | [💻 Open Source Repo](https://github.com/HEMASAMIR/Deutsh_welt_application) | Full German language platform + PDF Certificates |
+| **Airbnb Clone** | [🌐 Live Web Demo](https://airbnb-prototype-five.vercel.app) | Property rental web & mobile prototype |
 
 <br/>
 
