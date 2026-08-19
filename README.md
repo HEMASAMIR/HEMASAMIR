@@ -39,14 +39,14 @@
 <!-- ── Live Published Apps Section ── -->
 ### 📲 Live Published Applications
 
-| Application | Platform Links | Key Highlights |
+| Application | Download & Live Store Badges | Key Highlights |
 |---|---|---|
-| **Rafiq Al-Muslim (رفيق المسلم)** | [🍏 App Store](https://apps.apple.com/jm/app/rafiq-muslim-%D8%B1%D9%81%D9%8A%D9%82-%D8%A7%D9%84%D9%85-%D8%B3%D9%84%D9%85/id6759332192) · [🤖 Google Play](https://play.google.com/store/apps/details?id=com.rafiq.muslim&hl=ar) | Islamic companion app (Prayer Times, Quran Audio, Azkar) |
-| **Metro Egypt (مترو مصر)** | [🍏 App Store](https://apps.apple.com/us/app/%D9%85%D8%AA%D8%B1%D9%88-%D9%85%D8%B5%D8%B1-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA/id6782100362) | Offline metro route planning, AR & Voice integration |
-| **Quick In App** | [🍏 App Store](https://apps.apple.com/us/app/quickin-app/id6778979967) · [🤖 Google Play](https://play.google.com/store/apps/details?id=com.quickin.app) | Live enterprise app with CI/CD & Supabase |
-| **Incense SA** | [🌐 Live E-Commerce Store](https://incense-sa.com) | E-commerce app for top Saudi fragrance brand |
-| **Deutsch Welt Akademie** | [💻 Open Source Repo](https://github.com/HEMASAMIR/Deutsh_welt_application) | Full German language platform + PDF Certificates |
-| **Airbnb Clone** | [🌐 Live Web Demo](https://airbnb-prototype-five.vercel.app) | Property rental web & mobile prototype |
+| **Rafiq Al-Muslim (رفيق المسلم)** | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/jm/app/rafiq-muslim-%D8%B1%D9%81%D9%8A%D9%82-%D8%A7%D9%84%D9%85-%D8%B3%D9%84%D9%85/id6759332192) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.rafiq.muslim) | Islamic companion app (Prayer Times, Quran Audio, Azkar) |
+| **Metro Egypt (مترو مصر)** | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/%D9%85%D8%AA%D8%B1%D9%88-%D9%85%D8%B5%D8%B1-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA/id6782100362) | Offline metro route planning, AR & Voice integration |
+| **Quick In App** | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/quickin-app/id6778979967) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.quickin.app) | Live enterprise app with CI/CD & Supabase |
+| **Incense SA** | [![Live Store](https://img.shields.io/badge/Live_Store-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://incense-sa.com) | E-commerce app for top Saudi fragrance brand |
+| **Deutsch Welt Akademie** | [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HEMASAMIR/Deutsh_welt_application) | Full German language platform + PDF Certificates |
+| **Airbnb Clone** | [![Live Web Demo](https://img.shields.io/badge/Live_Web_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://airbnb-prototype-five.vercel.app) | Property rental web & mobile prototype |
 
 <br/>
 
