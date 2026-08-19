@@ -96,22 +96,6 @@
 
 <br/>
 
-<!-- ── Animated GitHub Cards & Stats ── -->
-### 📈 GitHub Analytics & Activity
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=HEMASAMIR&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEMASAMIR&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HEMASAMIR&theme=radical&hide_border=true" alt="GitHub Streak" width="97%" />
-
-</div>
-
-<br/>
-
 <!-- ── Animated Footer Divider ── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
